@@ -1,1 +1,0 @@
-# CLIP_tutorial_-with_medical_images_ROCO-
